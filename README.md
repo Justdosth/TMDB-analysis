@@ -4,7 +4,7 @@
 The Movie Profitability Prediction Project aims to predict whether a movie will be profitable based on various features such as budget, revenue, genre, production company, etc. This project involves exploratory data analysis (EDA), feature engineering, modeling, and the development of a recommender system.
 
 ## Dataset
-The dataset used for this project contains information about several thousand movies, including features such as budget, genres, production companies, release date, revenue, etc. The dataset can be found [here](link_to_dataset).
+The dataset used for this project contains information about several thousand movies, including features such as budget, genres, production companies, release date, revenue, etc. The dataset can be found [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data).
 
 ## Project Structure
 The project is structured as follows:
